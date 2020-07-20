@@ -685,3 +685,11 @@ targets:
       - app.netlify.com
       - netlify.app
     twitter: "@Netlify"
+  Clockify:
+    href: https://clockify.me/
+    hosts:
+      - clockify.me
+      - www.clockify.me
+      - global.api.clockify.me
+      - stomp.clockify.me
+    twitter: "@Clockify"
